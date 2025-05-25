@@ -5,12 +5,12 @@ const mockTweets = [
   {
     id: "1",
     user: {
-      name: "Sarah Chen",
-      username: "sarahchen",
+      name: "Michadek23.sui",
+      username: "michadek23",
       avatar: "/qq.jpg?height=10&width=40",
       verified: true,
     },
-    content: "Just shipped a new feature! The feeling when your code works on the first try is unmatched 🚀",
+    content: "Justshipp[ed in our version of x clone! When you got a team that got your back you are bound to do things",
     timestamp: "2h",
     likes: 42,
     retweets: 12,
