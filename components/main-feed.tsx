@@ -20,13 +20,13 @@ const mockTweets = [
   {
     id: "2",
     user: {
-      name: "Tech News",
-      username: "technews",
+      name: "SUI On Campus",
+      username: "sui-on-campus",
       avatar: "/qq.jpg?height=10&width=40",
       verified: true,
     },
     content:
-      "Breaking: New AI model achieves breakthrough in natural language understanding. This could change everything we know about human-computer interaction.",
+      "Breaking: Michadek23 Just Won first place in  the Sui Buildathon with their innovative project of building the first educational platform on Sui where people can earn while learning about Sui and its ecosystem. Congratulations!",
     timestamp: "4h",
     likes: 1240,
     retweets: 456,
