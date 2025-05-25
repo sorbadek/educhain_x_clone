@@ -4,10 +4,10 @@ import { Search } from "lucide-react"
 
 export function RightSidebar() {
   const trends = [
-    { category: "Trending in Technology", hashtag: "#AI", posts: "125K posts" },
-    { category: "Trending", hashtag: "#NextJS", posts: "45.2K posts" },
-    { category: "Technology · Trending", hashtag: "#WebDev", posts: "89.1K posts" },
-    { category: "Trending in Programming", hashtag: "#React", posts: "156K posts" },
+    { category: "Trending in Technology", hashtag: "#Educhain", posts: "125K posts" },
+    { category: "Trending", hashtag: "#Educhain", posts: "45.2K posts" },
+    { category: "Blockchain · Trending", hashtag: "#Sui", posts: "89.1K posts" },
+    { category: "Trending in Programming", hashtag: "#Michadek23", posts: "156K posts" },
   ]
 
   const suggestions = [
